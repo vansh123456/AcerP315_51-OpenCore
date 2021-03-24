@@ -1,9 +1,9 @@
 # Predator Helios 300 EFI PH315-51 (OC 0.6.7)
 
- ![configuration](https://i.ibb.co/bQBcphJ/Screenshot-2020-08-23-at-2-43-45-AM.png)
+ ![configuration](https://drive.google.com/file/d/1tM00MK7Xfb3klr75Q9CFnUPOJnI_dwmu/view?usp=sharing)
 
 ## Configuration
-**CPU** : Intel Core i5-8300HH @ 2,3Ghz - 4,0Ghz
+**CPU** : Intel Core i5-8300H @ 2,3Ghz - 4,0Ghz
 
 **GPU** : Intel UHD Graphics 630 
 
