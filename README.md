@@ -1,6 +1,4 @@
-# Predator Helios 300 EFI PH315-51 (OC 0.6.7)
-
- ![configuration](https://i.ibb.co/4sM4tXr/Screenshot-2021-03-24-at-10-51-19-AM.png)
+# Predator Helios 300 EFI PH315-51 (OC 0.8.0)
 
 ## Configuration
 **CPU** : Intel Core i5-8300H @ 2,3Ghz - 4,0Ghz
@@ -9,9 +7,9 @@
 
 **RAM** : 08GB @ 2666Mhz
 
-**STORAGE** : 400GB(Partitioned HDD) (for MacOS)
+**STORAGE** : 128GB(SSD) (for MacOS)
 
-**OS** : MacOS Catalina (10.15.6)
+**OS** : MacOS Monterey (12.4.xx)
 
 ## What's working
 
@@ -35,20 +33,11 @@
 
 - [x] Realtek® ALC255 Audio 'Layout-ID is choosen to be 3(you can also try 27)0 and another Program is installed for HeadPhone Jack to work Properly'
 
-- [x]Here is the whole conversation taken from reddit.'Hello there, I'm sorry for the late repy but this is how I fix the audio distortion.
- 1 Download or Clone the ComboJack repository from this link https://github.com/hackintosh-stuff/ComboJack
- 2 put ComboJack_Installer/VerbStub.kext in OC/Kexts
- 3 Make sure to add the kext into your config.plist (I used ProperTree because I only need to screenshot my OC folder using Ctrl+R or Command+R in Mac)
- 4 Run ComboJack_Installer/install.sh in terminal and reboot
- 5 Done. Whenever you attach a device through the jack there will be a popup (like this) asking about the device type.' 
-
 - [x] USB-C
 
-- [x] USB Ports `Works FINE`
+- [x] USB Ports `Works FINE`,there might be Sleep issues as USB mapping is yet to be done.
 
 - [x] Web camera 'Leaving FaceTime Works Everywhere'
-
-- [x] Sleep/Wake 'Works FINE'
 
 ## Bios settings
 
